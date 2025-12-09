@@ -12,3 +12,4 @@ sources:
         - name: stg_supplies_data
         - name: stg_items_data
         - name: emp
+        - name: customers
